@@ -1,4 +1,4 @@
-# Getting Started with Test App
+# Getting Started with React - Tailwind Code Lab
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [tailwindCss](https://tailwindcss.com/) 
 
